@@ -8,7 +8,7 @@ The recipe supports the following options:
         Specify the build documentation root.
 
     source (default: `{build-directory}/source`)
-        Speficy the source directory of documentation.
+        Specify the source directory of documentation.
 
     outputs (default: `html`)
         Multiple-line value that defines what kind of output to produce. 
